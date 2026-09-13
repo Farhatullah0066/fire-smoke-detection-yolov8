@@ -3,7 +3,10 @@ __pycache__/
 *.pyc
 data/raw/
 data/processed/
-models/*.pt
+*.pt
+runs/
+results/plots/*.zip
+results/plots/training_run/weights/
 .ipynb_checkpoints/
 .env
 kaggle.json
