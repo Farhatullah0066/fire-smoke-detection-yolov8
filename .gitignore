@@ -10,3 +10,6 @@ results/plots/training_run/weights/
 .ipynb_checkpoints/
 .env
 kaggle.json
+*.avi
+*.mp4
+runs/detect/video_run/
